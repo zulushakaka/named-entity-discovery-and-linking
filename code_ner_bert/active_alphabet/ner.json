@@ -1,0 +1,42 @@
+{
+    "instances": [
+        "_PAD_NER", 
+        "B-GPE", 
+        "O", 
+        "B-PER", 
+        "I-PER", 
+        "B-ORG", 
+        "I-ORG", 
+        "I-GPE", 
+        "B-LOC", 
+        "B-FAC", 
+        "I-LOC", 
+        "I-FAC", 
+        "B-TTL", 
+        "I-TTL", 
+        "B-VEH", 
+        "I-VEH", 
+        "B-WEA", 
+        "I-WEA"
+    ], 
+    "instance2index": {
+        "I-FAC": 11, 
+        "I-VEH": 15, 
+        "B-GPE": 1, 
+        "B-TTL": 12, 
+        "I-LOC": 10, 
+        "B-ORG": 5, 
+        "I-TTL": 13, 
+        "B-VEH": 14, 
+        "I-PER": 4, 
+        "I-GPE": 7, 
+        "_PAD_NER": 0, 
+        "B-WEA": 16, 
+        "O": 2, 
+        "B-PER": 3, 
+        "B-FAC": 9, 
+        "I-ORG": 6, 
+        "B-LOC": 8, 
+        "I-WEA": 17
+    }
+}

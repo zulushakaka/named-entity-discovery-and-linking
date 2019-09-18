@@ -1,0 +1,66 @@
+netflix
+google
+youtube
+yahoo
+reuters
+the guardian
+bbc
+cnn
+cctv
+fox news
+new york times
+itar-tass
+ria novosti
+interfax
+rossiya segodnya
+rossiyskaya gazeta
+izvestia
+Komsomolskaya Pravda
+trud
+argumenty i fakty
+Moskovskiye Novosti
+Kommersant
+Moskovskij Komsomolets
+Nezavisimaya Gazeta
+Novaya Gazeta
+Vedomosti
+RBC Daily
+Sovetsky Sport
+The New Times
+Vokrug sveta
+Gazeta.ru
+Lenta.ru
+LifeNews
+Slon.ru
+Grani.ru
+Vesti.ru
+radio russia
+radio mayak
+radio yunost
+echo of moscow
+europa plus
+russkoye radio
+avtoradio
+dnd russian radio
+voice of russia
+golos rossii
+first channel
+rossiya 1
+zvezda
+NTV
+russia K
+russia 2
+russia 24
+STS
+domashny
+Ren TV
+dozhd
+prorussia.tv
+channel ukraine
+ICTV
+STB
+TET
+NTN
+SBU
+berkut
+JIT

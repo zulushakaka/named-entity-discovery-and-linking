@@ -1,0 +1,8 @@
+processed 795 tokens with 74 phrases; found: 73 phrases; correct: 52.
+accuracy:  94.09%; precision:  71.23%; recall:  70.27%; FB1:  70.75
+              GPE: precision:  76.47%; recall:  86.67%; FB1:  81.25  34
+              LOC: precision:  90.00%; recall: 100.00%; FB1:  94.74  10
+              ORG: precision:  70.00%; recall:  53.85%; FB1:  60.87  10
+              PER: precision: 100.00%; recall:  50.00%; FB1:  66.67  4
+              VEH: precision:  25.00%; recall:  20.00%; FB1:  22.22  4
+              WEA: precision:  45.45%; recall:  55.56%; FB1:  50.00  11
